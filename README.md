@@ -6,7 +6,7 @@ This repo features 3 separate programming ecercises revolving around familiariza
 
 ## OpenGL - A
 
-<img alt="demo img here"  src="https://raw.githubusercontent.com/Zengineers/cg-is-projects/main/opengl-a/2d.gif?token=GHSAT0AAAAAABOKBCNWURYE7P2LH7FLPIZ4YPVSYOQ"
+<img alt="demo img here"  src="opengl-a/2d.gif"
 width = "250"
 height = "250"/>
 
@@ -19,7 +19,7 @@ The goal of this exercise was to draw 2D shapes on a window using the
 
  ## OpenGL - B
 
-<img alt="demo img here"  src="https://raw.githubusercontent.com/Zengineers/cg-is-projects/main/opengl-b/pyramid.gif?token=GHSAT0AAAAAABOKBCNWJIGYUP6MZW3M2AI2YPVSYCA"
+<img alt="demo img here"  src="opengl-b/pyramid.gif"
 width = "250"
 height = "250"/>
 
@@ -30,7 +30,7 @@ height = "250"/>
 
  ## OpenGL - C
 
-<img alt="demo img here"  src="https://raw.githubusercontent.com/Zengineers/cg-is-projects/main/opengl-c/solar-system.gif?token=GHSAT0AAAAAABOKBCNXCI2OUSFGGXKG5TDAYPVSXPQ"
+<img alt="demo img here"  src="opengl-c/solar-system.gif"
 width = "250"
 height = "250"/>
 
