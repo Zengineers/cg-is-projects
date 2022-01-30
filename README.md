@@ -1,6 +1,6 @@
 # Computer Graphics & Integrated Systems Projects
 
-This repo features 3 separate programming ecercises revolving around familiarization with OpenGL 3.3. A detailed readme (GR) can be found for each exercise in their respective folders.
+This repo features 3 separate programming exercises revolving around familiarization with OpenGL 3.3. A detailed readme (GR) can be found for each exercise in their respective folders.
 
 <br>
 
